@@ -71,6 +71,26 @@ The program focuses on developing real-world skills in **frontend development**,
 - Planning before coding saves time and errors
 
 ---
+## 3. Commit and Push the Changes
+
+After completing and formatting the `README.md` file, I committed and pushed the changes to GitHub using the following commands:
+
+```bash
+git init
+git add README.md
+git commit -m "Initial commit: Added ProDev Frontend Engineering documentation"
+git branch -M main
+git remote add origin https://github.com/Xorla01/alx-project-nexus.git
+git push -u origin main
+```
+
+### This ensured that:
+- My work is properly tracked with version control
+- The repository is live on GitHub
+- The README is accessible for mentors and collaborators
+- Future changes can be managed efficiently
+  
+---
 
 ## Collaboration – Key for Success
 ### Collaborated With
